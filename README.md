@@ -1,6 +1,6 @@
 ![1 Plot Image](src/plot_1.jpg)
-![2 Plot Image](src/plot_3.jpg)
-![3 Plot Image](src/plot_2.jpg)
+![2 Plot Image](src/plot_2.jpg)
+![3 Plot Image](src/plot_3.jpg)
 
 Вот ваши таблицы, представленные в формате Markdown (MD):
 
