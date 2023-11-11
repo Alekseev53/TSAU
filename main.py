@@ -69,12 +69,12 @@ what_to_plot = range(5)#[5]#[0,1]#[2,3,4]#
 fig, axes = plt.subplots(nrows=2, ncols=1, figsize=(10, 8))
 
 # Построение графика для data_1
-data_1[what_to_plot].plot(ax=axes[0])
+data_3[what_to_plot].plot(ax=axes[0])
 axes[0].set_title('Original Data')
 axes[0].set_ylabel('Values')
-
+/Users/silach53/Documents/plot_3.jpg /Users/silach53/Documents/plot_2.jpg /Users/silach53/Documents/plot_1.jpg
 # Построение графика для data_1_corrected
-data_1_corrected[what_to_plot].plot(ax=axes[1])
+data_3_corrected[what_to_plot].plot(ax=axes[1])
 axes[1].set_title('Corrected Data')
 axes[1].set_ylabel('Values')
 
